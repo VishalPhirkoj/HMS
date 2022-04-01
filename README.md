@@ -2,5 +2,5 @@
 Hospital Management System
 
 
-Developed by--
+Developed by---
 # VISHAL PHIRKOJ
