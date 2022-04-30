@@ -4,5 +4,5 @@ Hospital Management System
 
 Developed by---
 # VISHAL PHIRKOJ
-Eshwarsmurthi
+29, Eshwarsmurthi, Siddhivinayak
 Ahmednagar
