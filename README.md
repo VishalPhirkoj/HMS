@@ -7,4 +7,3 @@ Developed by---
 29, Siddhivinayak Colony
 Near Bhide Hospital 
 Savedi Naka
-Savedi
